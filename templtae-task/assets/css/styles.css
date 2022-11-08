@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
+
+button {
+    text-transform: uppercase;
+  }
+
+.btn {
+    font-weight: 7000;
+    border-radius: 50px;
+  }
+  
+  .btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44;
+  }
+  
+  .btn-primary:hover{
+    cursor: pointer;
+    background-color: #ee4b08;
+    border-color: #F05F44;
+    border-width: 4px;
+  }
+
+  .btn-lg {
+    background-color: #F05F44;
+  border-color: #F05F44;
+  padding: 1rem 2rem
+  }
